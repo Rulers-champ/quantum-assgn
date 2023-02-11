@@ -1,0 +1,18 @@
+.footer-wrapper{
+    background-image: url('./bg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding:5rem 12rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-wrapper h4{
+    color:#fff;
+    font-weight: 600;
+}
+
+.footer-wrapper input{
+    width:400px;
+    margin: 1.2rem 0rem;
+}

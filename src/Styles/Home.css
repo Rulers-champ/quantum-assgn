@@ -1,0 +1,28 @@
+.home-wrapper{
+    background-color: #EAFDFC;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    padding:1.2rem 12rem;
+    padding-bottom: 0rem;
+}
+
+.home-wrapper h1{
+    font-size: 3.5rem;
+    font-weight: 600;
+    
+}
+
+.home-wrapper p{
+    color:#333;
+    font-weight: 400;
+    margin-top: 1.5rem;    
+}
+
+
+.home-wrapper img{
+    width: 450px;
+    height: 450px;
+}
+
